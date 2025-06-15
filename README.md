@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a7acc3e-9e73-4959-91d0-64c9209d668a/deploy-status)](https://app.netlify.com/projects/playlistextractor/deploys)
+
 # YouTube Playlist Link Extractor
 
 A simple, self-contained, and privacy-friendly web tool to extract all video links from a public YouTube playlist. Get a clean list of all video URLs and copy any link to your clipboard with a single click.
